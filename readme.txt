@@ -1,3 +1,3 @@
 Git is a version control system.
 Git is a free software.
-hello world
+hello world and hello everyone.
